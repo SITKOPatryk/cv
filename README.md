@@ -142,7 +142,7 @@ I have extensive **knowledge and experience** with **Yarn, JavaScript/ECMAScript
 
 I am a **social** person with a great **sense of responsibility.** I'm someone that **stands firmly** in my shoes. I know that I 'm excellently **capable** of handling myself in stressful situations. I would like to **work together** in a **team** where I can **learn** from colleagues and them from me. Working lonely isn't an issue neither.
 
-Hopefully have you a great idea of my capacities after reading this letter. I would like to **express** my **motivation and enthusiasm** in an introductory meeting.
+Hopefully have you a great idea of my capabilities after reading this letter. I would like to **express** my **motivation and enthusiasm** in an introductory meeting.
 
 Kind regards
 
