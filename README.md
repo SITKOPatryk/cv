@@ -1,4 +1,4 @@
-# Sitko Patryk
+# <div align="center">Sitko Patryk</div>
 
 <img src="https://github.com/SITKOPatryk/cv/blob/main/resources/cv-logo/my-cv-logo.png?raw=true" alt="cv logo" width="800px"/>
 
