@@ -129,17 +129,17 @@ Updated: Halle, 28 july 2021
 
 Dear,
 
-I would like to apply for this **exciting** and challenging position and in this short will I explain<br/> my **motivation**.
+I would like to apply for this **exciting** and challenging position and in this short will I explain my **motivation**.
 
-I have completed the Front-end **Developer training** at Intec Brussels. During this training<br/> I knew that a position as a front-end developer was a perfect fit for me. For the time being,<br/> I am actively developing my own **project** and enjoying working on it every single day<br/> (www.sitkopatryk.be, (old: www.wakeywakey.me)). In order to further **develop myself** and<br/> to be able to realize more assignments, am I looking for a workplace where I can further<br/> develop my skills and **your company** seems to be the **right place.**
+I have completed the Front-end **Developer training** at Intec Brussels. During this training I knew that a position as a front-end developer was a perfect fit for me. For the time being, I am actively developing my own **project** and enjoying working on it every single day (www.sitkopatryk.be, (old: www.wakeywakey.me)). In order to further **develop myself** and to be able to realize more assignments, am I looking for a workplace where I can further develop my skills and **your company** seems to be the **right place.**
 
-As a front-end developer **I’m responsible** for the **design and implementation** of end-user<br/> interfaces within web applications that offer a **proper experience.** In this way can I make the<br/> right proposals for the realization of **functionality** that meets the wishes, demands<br/> and **needs** of the **end users.**
+As a front-end developer **I’m responsible** for the **design and implementation** of end-user interfaces within web applications that offer a **proper experience.** In this way can I make the right proposals for the realization of **functionality** that meets the wishes, demands and **needs** of the **end users.**
 
-I have extensive **knowledge and<br/> experience** with **Yarn, JavaScript/ECMAScript, Reactjs, HTML, CSS, Redux, React<br/> routing, XML, Json, Git** and some additional libraries for front-end development of **single<br/> page applications.**
+I have extensive **knowledge and experience** with **Yarn, JavaScript/ECMAScript, Reactjs, HTML, CSS, Redux, React routing, XML, Json, Git** and some additional libraries for front-end development of **single page applications.**
 
-I am a **social** person with a great **sense of responsibility.** I'm someone that **stands firmly** in<br/> my shoes. I know that I 'm excellently **capable** of handling myself in stressful situations. I<br/> would like to **work together** in a **team** where I can **learn** from colleagues and them from<br/> me. Working lonely isn't an issue neither.
+I am a **social** person with a great **sense of responsibility.** I'm someone that **stands firmly** in my shoes. I know that I 'm excellently **capable** of handling myself in stressful situations. I would like to **work together** in a **team** where I can **learn** from colleagues and them from me. Working lonely isn't an issue neither.
 
-Hopefully have you a great idea of my capacities after reading this letter. I would like<br/> to **express** my **motivation and enthusiasm** in an introductory meeting.
+Hopefully have you a great idea of my capacities after reading this letter. I would like to **express** my **motivation and enthusiasm** in an introductory meeting.
 
 Kind regards
 
