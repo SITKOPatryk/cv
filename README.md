@@ -120,9 +120,9 @@ Sitko Patryk
 
 [yourehired@sitkopatryk.be](mailto:yourehired@sitkopatryk.be)
 
-Brussels, 18 september 2019
+<div align="right">Brussels, 18 september 2019</div>
 
-Updated: Halle, 28 july 2021
+<div align="right">Updated: Halle, 28 july 2021</div>
 
 <br/>
 
