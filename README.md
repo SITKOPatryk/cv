@@ -2,8 +2,8 @@
 
 <img src="https://github.com/SITKOPatryk/cv/blob/main/resources/cv-logo/my-cv-logo.png?raw=true" alt="cv logo" width="200px"/>
 
-- Bergensesteenweg 37a 002, 1500 Halle - Vlaams Brabant, België
-- +32 / 4 72 12 81 06
+- [Bergensesteenweg 37a 002, 1500 Halle - Vlaams Brabant, België](https://www.google.com/maps/preview?daddr=Bergensesteenweg%2037a,%20Halle)
+- [+32 / 4 72 12 81 06](tel:+32472128106)
 - Driver Licence – None
 - [you’re hired@sitkopatryk.be](mailto:yourehired@sitkopatryk.be)
 
