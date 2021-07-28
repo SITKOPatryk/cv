@@ -44,6 +44,8 @@
   - Written: Good!.
   - Spoken: Exellent!!.
 
+<a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/languages.png?raw=true" alt="cv logo" width="450px"/></a>
+
 ---
 
 ## Computer Knowledge
