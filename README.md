@@ -75,7 +75,7 @@
   - [MVC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html/)
   - [REST](https://spring.io/guides/gs/rest-service/)
 
-#### Database Technologies:
+#### Database & Hosting Technologies:
 
 - [MySQL](https://dev.mysql.com/doc/) • [Firebase](https://firebase.google.com/docs/)
 
