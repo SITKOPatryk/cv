@@ -55,7 +55,7 @@
 #### [JavaScript:](https://developer.mozilla.org/pl/docs/Web/JavaScript/)
 
 - [React:](https://reactjs.org/)
-  - [-Redux](https://react-redux.js.org/)
+  - [-redux](https://react-redux.js.org/)
   - [-router-dom](https://www.npmjs.com/package/react-router-dom/)
   - [Redux-thunk](https://www.npmjs.com/package/redux-thunk/)
   - [Redux-first-routing](https://www.npmjs.com/package/redux-first-routing/)
