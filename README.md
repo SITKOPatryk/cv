@@ -76,12 +76,12 @@
 
 - MySQL • Firebase
 
-## Data Notations:
+#### Data Notations:
 
 - HTML • XML • ML • JSON
 - SASS & CSS • UML • SQL
 
-## Version Control:
+#### Version Control:
 
 - Git
 
