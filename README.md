@@ -77,7 +77,7 @@
 
 #### Database Technologies:
 
-- MySQL • Firebase
+- [MySQL](https://dev.mysql.com/doc/) • [Firebase](https://firebase.google.com/docs/)
 
 #### Data Notations:
 
