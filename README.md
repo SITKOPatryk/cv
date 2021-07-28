@@ -109,7 +109,7 @@
 
 ---
 
-## Motication Letter:
+## Motivation Letter:
 
 ---
 
