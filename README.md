@@ -4,7 +4,7 @@
 
 - Bergensesteenweg 37a 002, 1500 Halle - Vlaams Brabant, België
 - +32 / 4 72 12 81 06
-- Drivers Licence – None
+- Driver Licence – None
 - [you’re hired@sitkopatryk.be](mailto:yourehired@sitkopatryk.be)
 
 ---
