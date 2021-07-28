@@ -54,16 +54,17 @@
 
 #### JavaScript:
 
-- React:
-  - React-Redux
-  - React-router-dom
-  - Redux-thunk
-  - Redux-first routing
-- Express
+- [React:](https://reactjs.org/)
+  - [-Redux](https://react-redux.js.org/)
+  - [-router-dom](https://www.npmjs.com/package/react-router-dom/)
+  - [Redux-thunk](https://www.npmjs.com/package/redux-thunk/)
+  - [Redux-first-routing](https://www.npmjs.com/package/redux-first-routing/)
+- [Express](https://expressjs.com/)
 - Sockets.io
-- Electron
-- NodeJS
-- JQuery (in progress ... [vdab](https://www.vdab.be/opleidingen/aanbod/O-AMI-800757/cursus/C-AMI-151647/Webdesign__Inleiding_jQuery-Online))
+- [Electron](https://www.electronjs.org/)
+- [NodeJS](https://nodejs.org/en/)
+- [JQuery](https://jquery.com/) (in progress ... [vdab](https://www.vdab.be/opleidingen/aanbod/O-AMI-800757/cursus/C-AMI-151647/Webdesign__Inleiding_jQuery-Online/))
+- [Redux](https://redux.js.org/tutorials/fundamentals/part-5-ui-react/)
 
 #### Java:
 
