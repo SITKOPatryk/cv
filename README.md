@@ -86,7 +86,7 @@
 
 #### Version Control:
 
-- Git
+- [Git](https://git-scm.com/docs/gittutorial/)
 
 <div align="right"><a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/COMPUTER%20KNOWLEDGE/github.png?raw=true" alt="cv logo" width="450px"/></a></div>
 
