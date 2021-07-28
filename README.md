@@ -66,14 +66,14 @@
 - [JQuery](https://jquery.com/) (in progress ... [vdab](https://www.vdab.be/opleidingen/aanbod/O-AMI-800757/cursus/C-AMI-151647/Webdesign__Inleiding_jQuery-Online/))
 - [Redux](https://redux.js.org/tutorials/fundamentals/part-5-ui-react/)
 
-#### Java:
+#### [Java:](https://docs.oracle.com/en/java/index.html/)
 
-- Maven • Swing • JavaFX • JDBC • JPA
-- SpringFramework:
-  - Core
-  - SpringBoot
-  - MVC
-  - REST
+- [Maven](https://maven.apache.org/) • [Swing](https://docs.oracle.com/javase/tutorial/uiswing/) • [JavaFX](https://docs.oracle.com/javafx/2/) • [JDBC](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/) • [JPA](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html/)
+- [Spring Framework:](https://spring.io/projects/spring-framework/)
+  - [Core](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html/)
+  - [Spring-boot](https://spring.io/projects/spring-boot/)
+  - [MVC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html/)
+  - [REST](https://spring.io/guides/gs/rest-service/)
 
 #### Database Technologies:
 
