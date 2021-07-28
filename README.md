@@ -81,8 +81,8 @@
 
 #### Data Notations:
 
-- HTML • XML • ML • JSON
-- SASS & CSS • UML • SQL
+- [HTML](https://developer.mozilla.org/pl/docs/Web/HTML/) • [XML](https://developer.mozilla.org/en-US/docs/Web/XML/) • [MD](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Markdown_in_MDN/) • [JSON](https://developer.mozilla.org/pl/docs/Web/JavaScript/Reference/Global_Objects/JSON/)
+- [SASS](https://sass-lang.com/documentation/) & [CSS](https://devdocs.io/css/) • [UML](https://www.omg.org/spec/UML/About-UML/#documents/) • [SQL](https://developer.mozilla.org/en-US/docs/Glossary/SQL/)
 
 #### Version Control:
 
