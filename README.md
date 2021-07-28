@@ -42,7 +42,7 @@
   - Spoken: Good!.
 - Polish: (Tak tak!):
   - Written: Good!.
-  - Spoken: Exellent!.
+  - Spoken: Exellent!!.
 
 ---
 
