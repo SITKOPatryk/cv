@@ -1,6 +1,6 @@
 # <div align="center">Sitko Patryk</div>
 
-<img src="https://github.com/SITKOPatryk/cv/blob/main/resources/cv-logo/my-cv-logo.png?raw=true" alt="cv logo" width="800px"/>
+<div align="center"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/cv-logo/my-cv-logo.png?raw=true" alt="cv logo" width="800px"/></div>
 
 - [Bergensesteenweg 37a 002, 1500 Halle - Vlaams Brabant, België](https://www.google.com/maps/preview?daddr=Bergensesteenweg%2037a,%20Halle)
 - [+32 / 4 72 12 81 06](tel:0032472128106)
@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://github.com/SITKOPatryk/cv/blob/main/resources/face/patryk.sitko.jpg?raw=true" alt="cv logo" width="200px"/>
+<div align="center"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/face/patryk.sitko.jpg?raw=true" alt="cv logo" width="1000px"/></div>
 
 ---
 
@@ -44,7 +44,7 @@
   - Written: Good!.
   - Spoken: Exellent!!.
 
-<a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/languages.png?raw=true" alt="cv logo" width="450px"/></a>
+<div align="right"><a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/languages.png?raw=true" alt="cv logo" width="450px"/></a></div>
 
 ---
 
@@ -87,7 +87,7 @@
 
 - Git
 
-<a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/COMPUTER%20KNOWLEDGE/github.png?raw=true" alt="cv logo" width="450px"/></a>
+<div align="right"><a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/COMPUTER%20KNOWLEDGE/github.png?raw=true" alt="cv logo" width="450px"/></a></div>
 
 ---
 
