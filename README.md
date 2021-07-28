@@ -129,17 +129,17 @@ Updated: Halle, 28 july 2021
 
 Dear,
 
-I would like to apply for this <span style="font-weight:bolder;">exciting</span> and challenging position and in this short will I explain<br/> my <span style="font-weight:bolder;">motivation</span>.
+I would like to apply for this **exciting** and challenging position and in this short will I explain<br/> my **motivation**.
 
-I have completed the Front-end <span style="font-weight:bolder;">Developer training</span> at Intec Brussels. During this training<br/> I knew that a position as a front-end developer was a perfect fit for me. For the time being,<br/> I am actively developing my own <span style="font-weight:bolder;">project</span> and enjoying working on it every single day<br/> (www.sitkopatryk.be, (old: www.wakeywakey.me)). In order to further <span style="font-weight:bolder;">develop myself</span> and<br/> to be able to realize more assignments, am I looking for a workplace where I can further<br/> develop my skills and <span style="font-weight:bolder;">your company</span> seems to be the <span style="font-weight:bolder;">right place.</span>
+I have completed the Front-end **Developer training** at Intec Brussels. During this training<br/> I knew that a position as a front-end developer was a perfect fit for me. For the time being,<br/> I am actively developing my own **project** and enjoying working on it every single day<br/> (www.sitkopatryk.be, (old: www.wakeywakey.me)). In order to further **develop myself** and<br/> to be able to realize more assignments, am I looking for a workplace where I can further<br/> develop my skills and **your company** seems to be the **right place.**
 
-As a front-end developer <span style="font-weight:bolder;">I’m responsible</span> for the <span style="font-weight:bolder;">design and implementation</span> of end-user<br/> interfaces within web applications that offer a <span style="font-weight:bolder;">proper experience.</span> In this way can I make the<br/> right proposals for the realization of <span style="font-weight:bolder;">functionality</span> that meets the wishes, demands<br/> and <span style="font-weight:bolder;">needs</span> of the <span style="font-weight:bolder;">end users.</span>
+As a front-end developer **I’m responsible** for the **design and implementation** of end-user<br/> interfaces within web applications that offer a **proper experience.** In this way can I make the<br/> right proposals for the realization of **functionality** that meets the wishes, demands<br/> and **needs** of the **end users.**
 
-I have extensive <span style="font-weight:bolder;">knowledge and<br/> experience</span> with <span style="font-weight:bolder;">Yarn, JavaScript/ECMAScript, Reactjs, HTML, CSS, Redux, React<br/> routing, XML, Json, Git</span> and some additional libraries for front-end development of <span style="font-weight:bolder;">single<br/> page applications.</span>
+I have extensive **knowledge and<br/> experience** with **Yarn, JavaScript/ECMAScript, Reactjs, HTML, CSS, Redux, React<br/> routing, XML, Json, Git** and some additional libraries for front-end development of **single<br/> page applications.**
 
-I am a <span style="font-weight:bolder;">social</span> person with a great <span style="font-weight:bolder;">sense of responsibility.</span> I'm someone that <span style="font-weight:bolder;">stands firmly</span> in<br/> my shoes. I know that I 'm excellently <span style="font-weight:bolder;">capable</span> of handling myself in stressful situations. I<br/> would like to <span style="font-weight:bolder;">work together</span> in a <span style="font-weight:bolder;">team</span> where I can <span style="font-weight:bolder;">learn</span> from colleagues and them from<br/> me. Working lonely isn't an issue neither.
+I am a **social** person with a great **sense of responsibility.** I'm someone that **stands firmly** in<br/> my shoes. I know that I 'm excellently **capable** of handling myself in stressful situations. I<br/> would like to **work together** in a **team** where I can **learn** from colleagues and them from<br/> me. Working lonely isn't an issue neither.
 
-Hopefully have you a great idea of my capacities after reading this letter. I would like<br/> to <span style="font-weight:bolder;">express</span> my <span style="font-weight:bolder;">motivation and enthusiasm</span> in an introductory meeting.
+Hopefully have you a great idea of my capacities after reading this letter. I would like<br/> to **express** my **motivation and enthusiasm** in an introductory meeting.
 
 Kind regards
 
