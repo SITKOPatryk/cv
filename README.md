@@ -7,8 +7,6 @@
 - Drivers Licence – None
 - [you’re hired@sitkopatryk.be](mailto:yourehired@sitkopatryk.be)
 
-  <span style="font-size:10px;">(yourehired@sitkopatryk.be)</span>
-
 ---
 
 ## Position: Junior JavaScript Developer
