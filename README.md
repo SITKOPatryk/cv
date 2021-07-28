@@ -123,7 +123,7 @@ Updated: Halle, 28 july 2021
 
 <br/>
 
-#### Subject: Vacancy Junior React Developer
+#### Subject: Vacancy, Junior React Developer
 
 ---
 
