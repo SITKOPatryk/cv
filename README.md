@@ -32,17 +32,18 @@
 ---
 
 - Dutch: (Ja ja!):
-  - Written: Exellent!.
-  - Spoken: Exellent!.
+  - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/DUTCH/written.png?raw=true" alt="cv logo" width="1000px"/>
+  - Spoken: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/DUTCH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
 - French: (Oui oui!):
-  - Written: Good.
-  - spoken: Exellent!.
+  - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/FRENCH/written.png?raw=true" alt="cv logo" width="1000px"/>
+  - spoken: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/FRENCH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
 - English (Yes yes!):
-  - Written: Good.
-  - Spoken: Good!.
+  - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/ENGLISH/written.png?raw=true" alt="cv logo" width="1000px"/>
+  - Spoken: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/ENGLISH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
 - Polish: (Tak tak!):
-  - Written: Good!.
-  - Spoken: Exellent!!.
+  - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/POLISH/written.png?raw=true" alt="cv logo" width="1000px"/>
+  - Spoken:
+  - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/POLISH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
 
 <div align="right"><a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/languages.png?raw=true" alt="cv logo" width="450px"/></a></div>
 
