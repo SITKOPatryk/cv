@@ -97,17 +97,17 @@
 ---
 
 - Intec Brussel: Java I.O.T Developer - 2021
-- Intec Brussel: JavaScript Developer – 2019
-- Linux Professional Institute: NDG Linux Essentials
-- Cisco Networking Academy: IT Essentials
-- Cisco Networking Academy: Introduction to I.o.T
-- HBO5 Lethas-CVO: Softwarepakketten
+- Intec Brussel: [JavaScript Developer – 2019](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/INTEC%20BRUSSEL%20-%20Front-End%20Developer.jpg.pdf)
+- Linux Professional Institute: [NDG Linux Essentials](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/NDG%20-%20Linux%20Essentials%20LPI.pdf)
+- Cisco Networking Academy: [IT Essentials](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/Cisco%20Networking%20Academy%20-%20IT%20Essentials.pdf)
+- Cisco Networking Academy: [Introduction to I.o.T](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/Cisco%20Networking%20Academy%20-%20Introduction%20to%20I.o.T.pdf)
+- HBO5 Lethas-CVO: [Softwarepakketten](<https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/HBO5%20-%20Softwarepakketten%20(Office).pdf>)
   - (Office)
-- HBO5 Lethas-CVO: Basiskennis TV
+- HBO5 Lethas-CVO: [Basiskennis TV](<https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/HBO%205%20Basiskennis%20TV%20(Hardware).pdf>)
   - (Hardware)
-- HBO5 Lethas-CVO: Besturingssystemen TV
+- HBO5 Lethas-CVO: [Besturingssystemen TV](<https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/HBO5%20-%20Besturingssystemen%20TV(Windows,Linux).pdf>)
   - (Windows, Linux)
-- HBO5 Lethas-CVO: Multimedia TV
+- HBO5 Lethas-CVO: [Multimedia TV](<https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/HBO5%20-%20Multimedia%201%20TV%20(Bestandsformaten).pdf>)
   - (File formats)
 
 ---
