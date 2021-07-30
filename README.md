@@ -150,4 +150,4 @@ Sitko Patryk
 
 ---
 
-# <div align="center"> [DOWNLOAD](https://github.com/SITKOPatryk/resume/blob/main/resume.en.sitko%20patryk.docx?raw=true)</div>
+# <div align="center"> [DOWNLOAD (.docx)](https://github.com/SITKOPatryk/resume/blob/main/resume.en.sitko%20patryk.docx?raw=true)</div>
