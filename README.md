@@ -42,8 +42,7 @@
   - Spoken: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/ENGLISH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
 - Polish: (Tak tak!):
   - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/POLISH/written.png?raw=true" alt="cv logo" width="1000px"/>
-  - Spoken:
-  - Written: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/POLISH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
+  - Spoken: <img src="https://github.com/SITKOPatryk/resume/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/LANGUAGE%20SKILL/POLISH/spoken.png?raw=true" alt="cv logo" width="1000px"/>
 
 <div align="right"><a href="https://github.com/SITKOPatryk"><img src="https://github.com/SITKOPatryk/cv/blob/main/resources/section/LANGUAGE%20KNOWLEDGE/languages.png?raw=true" alt="cv logo" width="450px"/></a></div>
 
