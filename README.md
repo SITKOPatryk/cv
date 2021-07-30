@@ -96,7 +96,7 @@
 
 ---
 
-- Intec Brussel: Java I.O.T Developer - 2021
+- Intec Brussel: [Java I.O.T Developer - 2021](http://www.intecbrussel.be/opleidingen)
 - Intec Brussel: [JavaScript Developer – 2019](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/INTEC%20BRUSSEL%20-%20Front-End%20Developer.jpg.pdf)
 - Linux Professional Institute: [NDG Linux Essentials](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/NDG%20-%20Linux%20Essentials%20LPI.pdf)
 - Cisco Networking Academy: [IT Essentials](https://github.com/SITKOPatryk/cv/blob/main/resources/certificates/Cisco%20Networking%20Academy%20-%20IT%20Essentials.pdf)
